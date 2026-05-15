@@ -6,6 +6,11 @@ Research-focused repository for studying deepfake detection methods, model evalu
 
 This project represents my core AI/ML research direction: detecting synthetic and manipulated media using modern machine learning techniques. The long-term goal is to build reliable deepfake detection pipelines using Transformer and CNN-based approaches for trustworthy digital media analysis.
 
+## Research Documents
+
+- [Research Roadmap](docs/ROADMAP.md) - Step-by-step direction for dataset preparation, CNN baselines, Transformer experiments, and evaluation.
+- [CNN And Transformer Experiment Plan](docs/EXPERIMENT_PLAN.md) - Practical experiment plan for comparing model families in deepfake detection.
+
 ## Topics Covered
 
 - Deepfake detection research
