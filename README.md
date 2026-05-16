@@ -10,6 +10,9 @@ This project represents my core AI/ML research direction: detecting synthetic an
 
 - [Research Roadmap](docs/ROADMAP.md) - Step-by-step direction for dataset preparation, CNN baselines, Transformer experiments, and evaluation.
 - [CNN And Transformer Experiment Plan](docs/EXPERIMENT_PLAN.md) - Practical experiment plan for comparing model families in deepfake detection.
+- [Dataset Documentation](datasets/README.md) - Dataset selection, preprocessing, and ethical-use notes.
+- [Experiment Tracking](experiments/README.md) - Structure for tracking CNN, Transformer, and hybrid model experiments.
+- [Results Reporting](results/README.md) - Evaluation metrics, comparison tables, and error analysis structure.
 
 ## Topics Covered
 
